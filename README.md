@@ -11,3 +11,8 @@ La solución aportada consiste en una aplicación de gestión financiera que per
 
 Tecnologias Utilizadas backend: Java, SpringBoot, API REST, SQL, Postman, GIT, Spring Data JPA, Hibernate, Maven, Tomcat. 
 
+
+
+Demo del proyecto entregado: 
+
+![](mujeres2000.gif)
