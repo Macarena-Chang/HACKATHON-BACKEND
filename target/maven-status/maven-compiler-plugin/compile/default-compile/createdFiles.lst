@@ -1,0 +1,16 @@
+ar\com\mujeres2000\sistema_gestion_financiera\controllers\ProductoController.class
+ar\com\mujeres2000\sistema_gestion_financiera\entitites\Venta.class
+ar\com\mujeres2000\sistema_gestion_financiera\services\VentaService.class
+ar\com\mujeres2000\sistema_gestion_financiera\repositories\VentaRepository.class
+ar\com\mujeres2000\sistema_gestion_financiera\models\responses\BalanceResponse.class
+ar\com\mujeres2000\sistema_gestion_financiera\entitites\CostoFijo.class
+ar\com\mujeres2000\sistema_gestion_financiera\services\ReporteService.class
+ar\com\mujeres2000\sistema_gestion_financiera\models\requests\VentaRequest.class
+ar\com\mujeres2000\sistema_gestion_financiera\controllers\VentaController.class
+ar\com\mujeres2000\sistema_gestion_financiera\entitites\Producto.class
+ar\com\mujeres2000\sistema_gestion_financiera\models\requests\MontoNuevo.class
+ar\com\mujeres2000\sistema_gestion_financiera\repositories\ProductoRepository.class
+ar\com\mujeres2000\sistema_gestion_financiera\controllers\ReporteController.class
+ar\com\mujeres2000\sistema_gestion_financiera\SistemaGestionFinancieraApplication.class
+ar\com\mujeres2000\sistema_gestion_financiera\models\responses\GenericResponse.class
+ar\com\mujeres2000\sistema_gestion_financiera\services\ProductoService.class

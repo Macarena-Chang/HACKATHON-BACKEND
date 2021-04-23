@@ -1,0 +1,16 @@
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\controllers\ReporteController.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\models\requests\MontoNuevo.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\models\responses\BalanceResponse.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\models\requests\VentaRequest.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\services\VentaService.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\repositories\ProductoRepository.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\models\responses\GenericResponse.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\controllers\ProductoController.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\entitites\CostoFijo.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\services\ProductoService.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\services\ReporteService.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\controllers\VentaController.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\entitites\Venta.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\repositories\VentaRepository.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\entitites\Producto.java
+c:\Users\maca9\OneDrive\Documentos\GitHubReposMaca\adathon-back\src\main\java\ar\com\mujeres2000\sistema_gestion_financiera\SistemaGestionFinancieraApplication.java
